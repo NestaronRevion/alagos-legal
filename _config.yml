@@ -1,3 +1,7 @@
 title: Alagos
-description: Privacy Policy and Terms of Service for the Alagos Discord bot
-theme: jekyll-theme-minimal
+description: "Alagos, a Discord bot for gaming guilds and leagues: events, attendance, rosters, loot and fair rotations."
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

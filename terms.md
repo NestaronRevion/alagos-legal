@@ -3,7 +3,7 @@ title: Terms of Service
 ---
 # Alagos Terms of Service
 
-**Effective:** October 11, 2026
+**Effective:** November 8, 2026
 
 These terms are an agreement between you and Jason Lagasse, Indiana, United States ("we", "us"), who run Alagos. They apply to anyone who adds Alagos to a Discord server or uses it. By doing either, you accept them. If you do not, do not add or use Alagos.
 
@@ -73,7 +73,16 @@ Alagos (its name, the bot, its code and its documentation) belongs to us. We giv
 
 Alagos has a free plan with limits, such as how many events may be scheduled at once. We may change what the free plan includes. Where a change takes away something a free server already uses, we will announce it on the Alagos support server in advance where we reasonably can.
 
-**Paid plans** are not offered yet. Before they are, these terms will gain a section on billing, renewals, cancellation and refunds, including the right of consumers in the EU and UK to cancel within 14 days, and the [Privacy Policy](privacy.md) will name the payment providers.
+**Paid plans.** Premium and Community are monthly subscriptions for one Discord server, bought through Discord:
+
+- **Who handles the payment:** Discord. Its own terms for purchases apply, and we never see your payment details.
+- **The price** is shown on the button before you buy. A **founder price**, offered for a limited time to a limited number of servers, stays the same for as long as that subscription continues. If the subscription ends, the founder price cannot be bought again.
+- **Renewal:** every month, until it is cancelled. Whoever bought it manages it in Discord, under Subscriptions.
+- **Cancelling:** any time, in Discord. The plan continues to the end of the month already paid, then the server returns to the free plan (or to a plan we have arranged with you). Nothing is deleted: anything over a free limit stays, but no more can be added.
+- **Refunds** are handled by Discord under its refund policy. A refunded subscription ends at once.
+- **Consumers in the EU and UK** have a right to cancel within 14 days under consumer law. Discord's checkout explains how it applies to your purchase.
+- **Price changes:** we announce a change on the Alagos support server at least 30 days before it applies to an existing subscription. A founder price does not change.
+- **Paying another way:** if we agree to take payment another way (for example by Venmo), we confirm in writing which plan and which months it covers; refunds of such a payment are by agreement.
 
 ## 8. Availability and changes to Alagos
 
@@ -100,6 +109,7 @@ To the extent the law allows, we are not liable for indirect or consequential lo
 When these terms change, the date at the top changes, the change is listed below, and significant changes are announced on the Alagos support server before they take effect. If you keep using Alagos after a change takes effect, you accept the new terms; if you do not accept them, remove Alagos. Every earlier version stays visible in this page's public history.
 
 **Changes**
+- November 8, 2026: paid plans (section 7: billing, renewal, cancelling, refunds).
 - October 11, 2026: first published.
 
 ## 13. Governing law

@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 # Alagos Privacy Policy
 
-**Effective:** October 11, 2026
+**Effective:** November 8, 2026
 
 Alagos is a Discord bot that helps gaming leagues, guilds and alliances run their events, attendance, rosters and rotations. It is run by Jason Lagasse, Indiana, United States ("we", "us").
 
@@ -24,7 +24,7 @@ This policy explains what Alagos keeps about you, why, who can see it, how long 
 - **Members** of a Discord server that uses Alagos: signing up for events, being recorded as attending, claiming a character, using `/my-profile` or `/feedback`.
 - **Server owners, administrators and officers** who add Alagos to a server, set it up and run it.
 - **People who use the Alagos support server**: verifying a league, reporting a bug, asking for help.
-- **Servers on a paid plan**, once paid plans are offered (this policy will say what payment information is involved before then).
+- **Servers on a paid plan**, and whoever bought it (section 5, "Paying for a plan").
 
 Alagos runs on Discord. Your Discord account, and everything you do on Discord, is covered by Discord's own privacy policy. We are not part of Discord and are not endorsed by it.
 
@@ -59,6 +59,8 @@ A **league's records** (its roster, characters, events, sign-ups, attendance, ro
 
 **Notifications.** If Alagos sends you private messages (reminders, event changes, your train seat and so on), it keeps your choices: which kinds you want, whether an event's messages are off, your quiet hours and the timezone you gave for them, and whether you have paused them. It keeps each message it queues for you (what it was about and whether it was sent) for 30 days, so it never sends the same one twice and can keep to a daily limit. If Discord refuses a message because your DMs are closed, it notes that for a week. Every message has a button to stop that kind, and `/my-profile` changes the rest.
 
+**Cleaning up event channels.** A server can have Alagos remove its own messages about an event once the event is over, or clear its event channel of messages older than a set time (pinned messages, and everything from an event that is not over yet onwards, are kept). To do that Alagos remembers the IDs of the messages it posts about each event until they are removed. When it clears a channel it looks only at who posted each message, when, and whether it is pinned: it cannot read what a message says. Removing messages never removes the event's sign-ups or attendance, which stay in Alagos's records as above.
+
 **A record of changes.** Alagos logs changes made through it (who changed a player's details or recorded attendance, and when), so officers can see what happened and mistakes can be traced and put right.
 
 **The support server.** If you verify a league there, Alagos keeps the link between your Discord account and that league, to give you the right role. Verification codes are stored only as a one-way fingerprint and expire after 24 hours. Bug reports, feature requests and support questions are posts in Discord's own forums.
@@ -77,7 +79,7 @@ A **league's records** (its roster, characters, events, sign-ups, attendance, ro
 | Verifying leagues and answering support requests | Legitimate interests, and steps you ask us to take |
 | Keeping the service running, secure and backed up; logs for fixing problems | Legitimate interests |
 | Removing data on request, and keeping the records the law requires | Legal obligation |
-| Taking payment, once paid plans exist | Performing our contract with you |
+| Paid plans: knowing which server is subscribed, and recording any payment made to us outside Discord | Performing our contract with you |
 
 We do not sell personal information, do not use it for advertising, and do not use it, or anything Alagos receives from Discord, to train machine-learning or AI models.
 
@@ -94,8 +96,9 @@ We do not sell personal information, do not use it for advertising, and do not u
 | Our own server | Runs the bot and its database | All of the above | United States |
 | Proton (Proton AG) | Encrypted off-site copies of the backups; the alagos@nestaron.com inbox | Encrypted backups (Proton cannot read them); emails you send us | Switzerland |
 | GitHub | Hosts these policy pages | Visits to the pages | United States |
+| Venmo (PayPal) | Only if you pay us by Venmo | The payment, under PayPal's own privacy policy | United States |
 
-Payment providers will be added here before paid plans are offered.
+**Paying for a plan.** Subscriptions are bought through Discord, which handles the payment. Alagos receives from Discord which server is subscribed, to which plan, when it started and ends, and the Discord ID of the person who bought it, never any payment details. If you pay us another way (for example by Venmo, part of PayPal), we keep a record of that payment: the name it came from, the amount, the server and the months it covers.
 
 We may share information if the law requires it, or to establish or defend a legal claim. If the service is ever transferred to someone else, this policy goes with the data, and we will announce the change before anything about it changes.
 
@@ -115,6 +118,8 @@ Banners are stored on our server and attached to event posts in Discord. Once po
 | Beta codes: which server used one, who entered it, when | Kept as a record of the beta; the person's ID is removed when they ask us to remove their data, and the server's link when the server's data is deleted |
 | The record of changes (who changed what) | 24 months, then deleted automatically |
 | Anonymous feedback | 30 to 90 days (the server chooses) after officers mark it handled; until then, until it is handled |
+| A server's subscription (plan, dates, who bought it) | While the server uses Alagos; deleted with the server's data |
+| Records of payments made to us outside Discord | As long as tax law requires us to keep them (usually 7 years), even if the server's data is deleted |
 | Your answers to a server's welcome questions | Until you answer again, the server removes the question, or your data or the server's is removed |
 | Your notification choices (kinds, quiet hours, pause) | Until you change them, or your data or the server's is removed |
 | Messages queued for you, sent or not | 30 days |
@@ -165,6 +170,8 @@ Discord requires its users to be at least 13, or older in some countries. Alagos
 When this policy changes, the date at the top changes, the change is listed below, and significant changes are announced on the Alagos support server before they take effect. Every earlier version stays visible in this page's public history.
 
 **Changes**
+- November 8, 2026: cleaning up event channels.
+- November 8, 2026: paying for a plan (Discord subscriptions, and payments made another way).
 - October 11, 2026: first published.
 
 ## 14. Contact
