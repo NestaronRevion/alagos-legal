@@ -108,6 +108,20 @@ section > .wrap { display: grid; gap: 32px; }
 .shot figcaption { color: var(--muted); font-size: 0.98rem; }
 .shot figcaption strong { color: var(--ink); }
 
+/* Events: the main feature */
+.events { background: var(--surface); }
+.feature { display: grid; gap: 32px; align-items: center; }
+@media (min-width: 860px) { .feature { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 48px; } }
+.feature-text { display: grid; gap: 16px; align-content: start; min-width: 0; }
+.feature-text h2 { font-size: clamp(1.7rem, 3.6vw, 2.5rem); font-weight: 800; }
+.feature-text > p { color: var(--muted); font-size: 1.08rem; }
+.ticks { margin: 0; padding: 0; list-style: none; display: grid; gap: 10px; }
+.ticks li { padding-left: 28px; position: relative; }
+.ticks li::before { content: ""; position: absolute; left: 4px; top: 0.5em; width: 12px; height: 7px;
+  border-left: 3px solid var(--bolt); border-bottom: 3px solid var(--bolt); transform: rotate(-45deg); }
+.subhead { font-size: 1.4rem; margin-top: 16px; }
+.editor-shots { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 24px; }
+
 .areas { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 36px 44px; }
 .area { display: grid; gap: 10px; align-content: start; min-width: 0; }
 .area h3 { font-size: 1.2rem; }
