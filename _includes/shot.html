@@ -1,0 +1,7 @@
+{% comment %}
+A screenshot that appears only once its file is in the repository, so a page can
+go live before every picture exists. Use: include shot.html src="/images/..." alt="..." caption="..."
+{% endcomment %}{% assign shot_file = site.static_files | where: "path", include.src | first %}{% if shot_file %}<figure class="shot">
+  <div class="frame"><img src="{{ include.src }}" loading="lazy" alt="{{ include.alt }}"></div>
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>{% endif %}

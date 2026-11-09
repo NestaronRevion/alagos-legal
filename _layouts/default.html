@@ -27,6 +27,7 @@
     <div class="navlinks">
       <a href="/#events">Events</a>
       <a href="/#features">Features</a>
+      <a href="/games/">Games</a>
       <a href="/#plans">Plans</a>
       <a href="/#help">Help</a>
     </div>
@@ -34,7 +35,7 @@
   </div>
 </nav>
 
-{% if page.url == "/" %}
+{% if page.url == "/" or page.full %}
 {{ content }}
 {% else %}
 <main class="doc">
