@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 # Alagos Privacy Policy
 
-**Effective:** November 8, 2026
+**Effective:** November 9, 2026
 
 Alagos is a Discord bot that helps gaming leagues, guilds and alliances run their events, attendance, rosters and rotations. It is run by Jason Lagasse, Indiana, United States ("we", "us").
 
@@ -67,6 +67,8 @@ A **league's records** (its roster, characters, events, sign-ups, attendance, ro
 
 **Beta codes.** If your server joined the Alagos beta with a code, we keep which server used it, the Discord ID of the person who entered it, and when. Codes themselves are stored only as a one-way fingerprint.
 
+**Free trials.** If your server has a free trial of Premium, we keep the server's Discord ID, when the trial started and ends, and whether it came from a code. If it came from a code, we also keep the Discord ID of the person who entered it. Codes themselves are stored only as a one-way fingerprint. Each server can have one free trial, so the record that a server had one is kept even after the server's other data is deleted; it holds nothing about its members.
+
 **If you email us**, we keep your email and what you write, to answer you.
 
 ## 4. Why, and the legal basis
@@ -116,6 +118,8 @@ Banners are stored on our server and attached to event posts in Discord. Once po
 |---|---|
 | A league's records (roster, characters, groups, events, sign-ups, attendance, rotations, teams, seasons, awards, loot, settings, permissions, name history, banners) | As long as the server uses Alagos |
 | Beta codes: which server used one, who entered it, when | Kept as a record of the beta; the person's ID is removed when they ask us to remove their data, and the server's link when the server's data is deleted |
+| Free trials: the server's Discord ID and the trial's dates | Kept, so each server has one free trial; holds no member data |
+| Trial codes: which server used one, who entered it, when | Kept as a record of the trial; the person's ID is removed when they ask us to remove their data |
 | The record of changes (who changed what) | 24 months, then deleted automatically |
 | Anonymous feedback | 30 to 90 days (the server chooses) after officers mark it handled; until then, until it is handled |
 | A server's subscription (plan, dates, who bought it) | While the server uses Alagos; deleted with the server's data |
@@ -170,6 +174,7 @@ Discord requires its users to be at least 13, or older in some countries. Alagos
 When this policy changes, the date at the top changes, the change is listed below, and significant changes are announced on the Alagos support server before they take effect. Every earlier version stays visible in this page's public history.
 
 **Changes**
+- November 9, 2026: free trials of Premium (what is kept, and that a server's trial record outlasts its other data).
 - November 8, 2026: cleaning up event channels.
 - November 8, 2026: paying for a plan (Discord subscriptions, and payments made another way).
 - October 11, 2026: first published.

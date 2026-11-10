@@ -3,7 +3,7 @@ title: Terms of Service
 ---
 # Alagos Terms of Service
 
-**Effective:** November 8, 2026
+**Effective:** November 9, 2026
 
 These terms are an agreement between you and Jason Lagasse, Indiana, United States ("we", "us"), who run Alagos. They apply to anyone who adds Alagos to a Discord server or uses it. By doing either, you accept them. If you do not, do not add or use Alagos.
 
@@ -82,6 +82,7 @@ Alagos has a free plan with limits, such as how many events may be scheduled at 
 - **Refunds** are handled by Discord under its refund policy. A refunded subscription ends at once.
 - **Consumers in the EU and UK** have a right to cancel within 14 days under consumer law. Discord's checkout explains how it applies to your purchase.
 - **Price changes:** we announce a change on the Alagos support server at least 30 days before it applies to an existing subscription. A founder price does not change.
+- **Free trials:** a free trial of Premium ends by itself on the date shown in `/tier view`. No payment details are taken and nothing is charged. Each server can have one; when it ends, the server returns to its own plan, and nothing is deleted.
 - **Paying another way:** if we agree to take payment another way (for example by Venmo), we confirm in writing which plan and which months it covers; refunds of such a payment are by agreement.
 
 ## 8. Availability and changes to Alagos
@@ -109,6 +110,7 @@ To the extent the law allows, we are not liable for indirect or consequential lo
 When these terms change, the date at the top changes, the change is listed below, and significant changes are announced on the Alagos support server before they take effect. If you keep using Alagos after a change takes effect, you accept the new terms; if you do not accept them, remove Alagos. Every earlier version stays visible in this page's public history.
 
 **Changes**
+- November 9, 2026: free trials of Premium (section 7).
 - November 8, 2026: paid plans (section 7: billing, renewal, cancelling, refunds).
 - October 11, 2026: first published.
 
