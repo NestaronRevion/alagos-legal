@@ -48,7 +48,7 @@ A **league's records** (its roster, characters, events, sign-ups, attendance, ro
 - **Characters and groups:** a player's character in each game the league plays, and which of the league's groups it belongs to.
 - **Game details**, where the league uses a game module: for DC Dark Legion, for example, power, rank, preferred train seats, and the events and times a player prefers; for Sim Racing, a driver's nationality, preferred car number, and the IDs their results are matched by (Steam ID, iRacing customer ID, or an EA, PSN or Xbox name), if they give them.
 - **Championships:** entries (driver, car number, team, class), results of each session, standings, and penalties with the stewards' reasons. In a league of teams: each team's name, tag, captain and players, each match's result, and who reported and confirmed it.
-- **Competitive games:** a player's character for each game, with their roles, rank and in-game ID (such as a Riot ID or Steam name) if they give it, and the clan's scrim and match results against other clans (the opponent's name, the maps and scores).
+- **Competitive games:** a player's character for each game, with their roles, rank and in-game ID (such as a Riot ID or Steam name) if they give it, and the clan's scrim and match results against other clans (the opponent's name, the maps and scores). For in-house games: the two teams, who captained them, and who won, which make up the in-house ladder. For matches: the agreed time and when each team checked in.
 - **Events, sign-ups, attendance**, rotations (such as the train and Guardian), team assignments, seasons and rewards.
 - **Loot**, where the league keeps it with Alagos: points earned and spent (every change, with its reason and who made it), bids and requests for items, soft reserves, wishlists, and the items each player received, with any reason the officers gave.
 - **Claims:** the link between your Discord account and your in-game character, once an officer approves it, or once you add your own character where your server allows it. Requests to add a character are kept with who asked and which officer decided.
@@ -181,6 +181,7 @@ Discord requires its users to be at least 13, or older in some countries. Alagos
 When this policy changes, the date at the top changes, the change is listed below, and significant changes are announced on the Alagos support server before they take effect. Every earlier version stays visible in this page's public history.
 
 **Changes**
+- November 12, 2026: in-house games (teams, captains, results) and match check-ins.
 - November 12, 2026: leagues of teams (match results, disputes), and competitive players' in-game IDs and their clan's scrim results.
 - November 12, 2026: championships (entries, results, penalties), incident reports, and Sim Racing drivers' IDs.
 - November 12, 2026: applications to join a group (what is kept, and for how long).
