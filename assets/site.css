@@ -195,6 +195,7 @@ section > .wrap > .shot { max-width: 820px; }
   align-content: start; text-decoration: none; color: var(--ink); }
 .gamecard:hover { border-color: var(--bolt); }
 .gamecard h2 { font-size: 1.5rem; }
+.gamecard h3 { font-size: 1.25rem; }
 .gamecard ul { margin: 0; padding-left: 1.1em; display: grid; gap: 5px; color: var(--muted); }
 .gamecard li::marker { color: var(--bolt); }
 .gamecard .go { color: var(--bolt); font-weight: 600; }
