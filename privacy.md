@@ -47,7 +47,8 @@ A **league's records** (its roster, characters, events, sign-ups, attendance, ro
 - **The roster:** in-game names, whether a player is active or on leave, previous leagues, and who referred them. When a player is renamed, the old name is kept in a **name history**, so past records can still be understood.
 - **Characters and groups:** a player's character in each game the league plays, and which of the league's groups it belongs to.
 - **Game details**, where the league uses a game module: for DC Dark Legion, for example, power, rank, preferred train seats, and the events and times a player prefers; for Sim Racing, a driver's nationality, preferred car number, and the IDs their results are matched by (Steam ID, iRacing customer ID, or an EA, PSN or Xbox name), if they give them.
-- **Championships:** entries (driver, car number, team, class), results of each session, standings, and penalties with the stewards' reasons.
+- **Championships:** entries (driver, car number, team, class), results of each session, standings, and penalties with the stewards' reasons. In a league of teams: each team's name, tag, captain and players, each match's result, and who reported and confirmed it.
+- **Competitive games:** a player's character for each game, with their roles, rank and in-game ID (such as a Riot ID or Steam name) if they give it, and the clan's scrim and match results against other clans (the opponent's name, the maps and scores).
 - **Events, sign-ups, attendance**, rotations (such as the train and Guardian), team assignments, seasons and rewards.
 - **Loot**, where the league keeps it with Alagos: points earned and spent (every change, with its reason and who made it), bids and requests for items, soft reserves, wishlists, and the items each player received, with any reason the officers gave.
 - **Claims:** the link between your Discord account and your in-game character, once an officer approves it, or once you add your own character where your server allows it. Requests to add a character are kept with who asked and which officer decided.
@@ -60,7 +61,7 @@ A **league's records** (its roster, characters, events, sign-ups, attendance, ro
 
 **Applications to join.** If you apply to join a group through Alagos, it keeps your application: your Discord ID and server name, the character you named (its name, realm and game details such as class and spec), your answers, and the officers' decision (who decided, when, and any conditions, reason or note). The server's officers read it, and discuss it in a thread on the server. The officers' votes are kept with their Discord IDs.
 
-**Incident reports.** If you report an incident in a championship, Alagos keeps your report (your Discord ID, the cars involved, when it happened, what you wrote and any video link) and the stewards' decision, with who decided. The stewards read it and discuss it in a thread on the server; the decision, but not your report, is sent to the drivers involved and may be posted in the server.
+**Incident reports and disputes.** If you report an incident or dispute a match result in a championship, Alagos keeps your report (your Discord ID, the cars involved, when it happened, what you wrote and any video link) and the stewards' decision, with who decided. The stewards read it and discuss it in a thread on the server; the decision, but not your report, is sent to the drivers involved and may be posted in the server.
 
 **Notifications.** If Alagos sends you private messages (reminders, event changes, your train seat and so on), it keeps your choices: which kinds you want, whether an event's messages are off, your quiet hours and the timezone you gave for them, and whether you have paused them. It keeps each message it queues for you (what it was about and whether it was sent) for 30 days, so it never sends the same one twice and can keep to a daily limit. If Discord refuses a message because your DMs are closed, it notes that for a week. Every message has a button to stop that kind, and `/my-profile` changes the rest.
 
@@ -180,6 +181,7 @@ Discord requires its users to be at least 13, or older in some countries. Alagos
 When this policy changes, the date at the top changes, the change is listed below, and significant changes are announced on the Alagos support server before they take effect. Every earlier version stays visible in this page's public history.
 
 **Changes**
+- November 12, 2026: leagues of teams (match results, disputes), and competitive players' in-game IDs and their clan's scrim results.
 - November 12, 2026: championships (entries, results, penalties), incident reports, and Sim Racing drivers' IDs.
 - November 12, 2026: applications to join a group (what is kept, and for how long).
 - November 9, 2026: free trials of Premium (what is kept, and that a server's trial record outlasts its other data).
