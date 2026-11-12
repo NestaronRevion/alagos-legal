@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 # Alagos Privacy Policy
 
-**Effective:** November 9, 2026
+**Effective:** November 12, 2026
 
 Alagos is a Discord bot that helps gaming leagues, guilds and alliances run their events, attendance, rosters and rotations. It is run by Jason Lagasse, Indiana, United States ("we", "us").
 
@@ -56,6 +56,8 @@ A **league's records** (its roster, characters, events, sign-ups, attendance, ro
 **Anonymous feedback.** Feedback sent with `/feedback` is stored **without any record of who sent it**: no Discord ID, no name, and no code standing in for either. Alagos keeps the text, its category, and the hour it was sent. Officers' replies are kept with the replying officer's Discord ID. Whatever you write in the message is kept as you wrote it, so leave out details that would identify you if you want to stay anonymous.
 
 **Welcome questions.** If a server's welcome flow asks you a question, Alagos keeps your latest answer to it (the answer you picked, or what you typed, up to 500 characters) with your Discord ID and when you answered, so the server's officers can read it. It is not kept in the record of changes. Answering again replaces it.
+
+**Applications to join.** If you apply to join a group through Alagos, it keeps your application: your Discord ID and server name, the character you named (its name, realm and game details such as class and spec), your answers, and the officers' decision (who decided, when, and any conditions, reason or note). The server's officers read it, and discuss it in a thread on the server. The officers' votes are kept with their Discord IDs.
 
 **Notifications.** If Alagos sends you private messages (reminders, event changes, your train seat and so on), it keeps your choices: which kinds you want, whether an event's messages are off, your quiet hours and the timezone you gave for them, and whether you have paused them. It keeps each message it queues for you (what it was about and whether it was sent) for 30 days, so it never sends the same one twice and can keep to a daily limit. If Discord refuses a message because your DMs are closed, it notes that for a week. Every message has a button to stop that kind, and `/my-profile` changes the rest.
 
@@ -125,6 +127,7 @@ Banners are stored on our server and attached to event posts in Discord. Once po
 | A server's subscription (plan, dates, who bought it) | While the server uses Alagos; deleted with the server's data |
 | Records of payments made to us outside Discord | As long as tax law requires us to keep them (usually 7 years), even if the server's data is deleted |
 | Your answers to a server's welcome questions | Until you answer again, the server removes the question, or your data or the server's is removed |
+| An application to join a group | 180 days after the officers decide; 365 days if they keep it on file ("bench"); deleted sooner with your data or the server's |
 | Your notification choices (kinds, quiet hours, pause) | Until you change them, or your data or the server's is removed |
 | Messages queued for you, sent or not | 30 days |
 | Unfinished attendance panels | 7 days |
@@ -174,6 +177,7 @@ Discord requires its users to be at least 13, or older in some countries. Alagos
 When this policy changes, the date at the top changes, the change is listed below, and significant changes are announced on the Alagos support server before they take effect. Every earlier version stays visible in this page's public history.
 
 **Changes**
+- November 12, 2026: applications to join a group (what is kept, and for how long).
 - November 9, 2026: free trials of Premium (what is kept, and that a server's trial record outlasts its other data).
 - November 8, 2026: cleaning up event channels.
 - November 8, 2026: paying for a plan (Discord subscriptions, and payments made another way).
